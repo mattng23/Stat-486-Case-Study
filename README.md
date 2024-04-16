@@ -22,6 +22,7 @@ This project aims to investigate the influence of weather, major holidays, and l
 - **jake_time_series.ipynb**: Notebook focusing on time series analysis and Prophet model implementation.
 - **matt_playground.ipynb**: Playground for Matt's experimentation, particularly with Random Forest.
 - **sams_playground.ipynb**: Playground for Sam's experimentation and analysis.
+- **andrews_playground.ipynb**: Playground for Andrew's experimentation and analysis.
 
 ## Visualization
 
